@@ -1,0 +1,2 @@
+# squashedavocados.github.io
+Website
